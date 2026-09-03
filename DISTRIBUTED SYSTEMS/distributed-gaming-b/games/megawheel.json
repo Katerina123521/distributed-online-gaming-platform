@@ -1,0 +1,11 @@
+{
+    "GameName":     "MegaWheelPro",
+    "ProviderName": "Pragmatic",
+    "Stars":        4.0,
+    "NoOfVotes":    180,
+    "GameLogo":     "logos/megawheel.png",
+    "MinBet":       5.0,
+    "MaxBet":       200.0,
+    "RiskLevel":    "HIGH",
+    "HashKey":      "megawheelSecretXZ"
+}

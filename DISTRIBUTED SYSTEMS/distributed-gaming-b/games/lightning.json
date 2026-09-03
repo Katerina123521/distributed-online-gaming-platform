@@ -1,0 +1,11 @@
+{
+    "GameName":     "LightningStrike",
+    "ProviderName": "Evolution",
+    "Stars":        4.2,
+    "NoOfVotes":    240,
+    "GameLogo":     "logos/lightning.png",
+    "MinBet":       1.0,
+    "MaxBet":       100.0,
+    "RiskLevel":    "HIGH",
+    "HashKey":      "lightningSecretZZ9"
+}

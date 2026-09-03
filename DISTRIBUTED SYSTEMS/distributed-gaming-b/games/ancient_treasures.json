@@ -1,0 +1,11 @@
+{
+    "GameName":     "AncientTreasures",
+    "ProviderName": "NetEnt",
+    "Stars":        4.8,
+    "NoOfVotes":    510,
+    "GameLogo":     "logos/ancient.png",
+    "MinBet":       5.0,
+    "MaxBet":       500.0,
+    "RiskLevel":    "MEDIUM",
+    "HashKey":      "ancientSecretKEY42"
+}

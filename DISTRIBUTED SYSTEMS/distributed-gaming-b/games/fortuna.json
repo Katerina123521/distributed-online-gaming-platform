@@ -1,0 +1,11 @@
+{
+    "GameName":     "FortunaSlots",
+    "ProviderName": "Pragmatic",
+    "Stars":        3.5,
+    "NoOfVotes":    95,
+    "GameLogo":     "logos/fortuna.png",
+    "MinBet":       0.1,
+    "MaxBet":       10.0,
+    "RiskLevel":    "MEDIUM",
+    "HashKey":      "fortunaSecretABC"
+}
